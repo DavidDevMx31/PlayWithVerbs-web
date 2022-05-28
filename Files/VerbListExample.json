@@ -1,7 +1,7 @@
 [
     { 
         "Id":1,
-        "Emoji":"\\U{1F579}",
+        "Emoji":"\\u{1F579}",
         "SimpleForm":"play",
         "SimplePast":"played",
         "PastParticiple":"played",
@@ -14,7 +14,7 @@
     },
     {
         "Id":2,
-        "Emoji":"\\U{1F469}\\U{200D}\\U{2696}\\U{FE0F}",
+        "Emoji":"\\u{1F469}\\u{200D}\\u{2696}\\u{FE0F}",
         "SimpleForm":"study",
         "SimplePast":"studied",
         "PastParticiple":"studied",
