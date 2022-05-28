@@ -1,0 +1,28 @@
+[
+    { 
+        "Id":1,
+        "Emoji":"\\U{1F579}",
+        "SimpleForm":"play",
+        "SimplePast":"played",
+        "PastParticiple":"played",
+        "ConjugationType":1,
+        "Meanings":[
+            {"Meaning":"Tocar un instrumento",
+            "Example":"My brother plays the guitar in a restaurant every friday.",
+            "ExampleTranslation":"Mi hermano toca la guitarra en un restaurante todos los viernes."}
+        ]
+    },
+    {
+        "Id":2,
+        "Emoji":"\\U{1F469}\\U{200D}\\U{2696}\\U{FE0F}",
+        "SimpleForm":"study",
+        "SimplePast":"studied",
+        "PastParticiple":"studied",
+        "ConjugationType":1,
+        "Meanings":[
+            {"Meaning":"Estudiar",
+            "Example":"She studied hard to become a great lawyer.",
+            "ExampleTranslation":"Ella estudi\u00F3 mucho para convertirse en una gran abogada."}
+        ]
+    }
+]
