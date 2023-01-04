@@ -12,4 +12,6 @@ img {
     font-family: 'Quicksand', sans-serif;
     text-align: left;
     line-height: 32px;
+    padding-top: 2em;
+    padding-bottom: 1em;
 }
